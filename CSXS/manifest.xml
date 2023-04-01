@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ExtensionManifest ExtensionBundleId="com.resolution" ExtensionBundleVersion="1.0.0"
+<ExtensionManifest ExtensionBundleId="com.resolution" ExtensionBundleVersion="1.1.0"
   ExtensionBundleName="resolution" Version="8.0"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ExtensionList>
-    <Extension Id="com.resolution.panel" Version="1.0.0" />
+    <Extension Id="com.resolution.panel" Version="1.1.0" />
   </ExtensionList>
   <ExecutionEnvironment>
     <HostList>
