@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<ExtensionManifest ExtensionBundleId="com.resolution" ExtensionBundleVersion="1.1.0"
+<ExtensionManifest ExtensionBundleId="com.resolution" ExtensionBundleVersion="1.2.0"
   ExtensionBundleName="resolution" Version="8.0"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ExtensionList>
-    <Extension Id="com.resolution.panel" Version="1.1.0" />
+    <Extension Id="com.resolution.panel" Version="1.2.0" />
   </ExtensionList>
   <ExecutionEnvironment>
     <HostList>
@@ -35,19 +35,19 @@
         </Lifecycle>
         <UI>
           <Type>Panel</Type>
-          <Menu>resolution</Menu>
+          <Menu>Raster Effect Settings</Menu>
           <Geometry>
             <Size>
-              <Height>100</Height>
-              <Width>100</Width>
+              <Height>40</Height>
+              <Width>240</Width>
             </Size>
             <MaxSize>
-              <Height>1000</Height>
-              <Width>1000</Width>
+              <Height>200</Height>
+              <Width>300</Width>
             </MaxSize>
             <MinSize>
-              <Height>20</Height>
-              <Width>20</Width>
+              <Height>40</Height>
+              <Width>240</Width>
             </MinSize>
           </Geometry>
           <Icons />
